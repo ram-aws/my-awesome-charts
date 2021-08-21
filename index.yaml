@@ -3,20 +3,20 @@ entries:
   node-redis-example-app:
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2021-08-21T13:28:39.214726+05:30"
+    created: "2021-08-21T14:00:42.421073+05:30"
     description: A surprise to catch something speedy.
-    digest: 8c517ee5300b93a67c5059fa8864f6a6c036a99b0d716e338e4e67654fda43a7
+    digest: 391f1958fa54443a1cd6f4ac78781087af9371a94c9c87c548b3c01fc5e3214d
     name: node-redis-example-app
     urls:
     - https://ram-aws.github.io/my-awesome-charts/node-redis-example-app-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-08-21T13:28:39.213883+05:30"
+    created: "2021-08-21T14:00:42.420547+05:30"
     description: A surprise to catch something speedy.
     digest: 29b68372544e9eebbc797c621e63ec67ccfb05aaa799fd243c6c8b5e94f801f3
     name: node-redis-example-app
     urls:
     - https://ram-aws.github.io/my-awesome-charts/node-redis-example-app-0.1.0.tgz
     version: 0.1.0
-generated: "2021-08-21T13:28:39.212066+05:30"
+generated: "2021-08-21T14:00:42.419034+05:30"
