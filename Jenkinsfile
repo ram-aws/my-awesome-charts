@@ -6,7 +6,7 @@ import java.util.regex.Pattern
 // aws-nextBot-pipeline
 
 pipeline {
-    agent {label 'srv-007933.artifactrepo.jnj.com/py3.6-nodejs-k8s-cloudera-driver:0.4'}
+    agent { docker { image 'python:3.10.1-alpine' } }
 
     options {
         timestamps()
